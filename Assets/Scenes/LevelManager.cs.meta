@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/MotionDectionSystem/FBTRecorder.cs.meta
+guid: 0407084dd087dbe4b8e74e17b9b49d69
+========
+guid: 1d1f1587fdd41724fa48c876bbdaf159
+>>>>>>>> d12e5ca3a96df47b6d70ab221ed93423ed218b78:Assets/Scenes/LevelManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

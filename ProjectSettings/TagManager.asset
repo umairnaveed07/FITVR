@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Probe
+  - LocalPlayer
+  - Wall
+  - Cubes
+  - Dodge
+  - Health
+  - Cubes1
+  - streak
+  - healthcircle
+  - frenzy
+  - RoomLight
+  - pointer
+  - Destroycube
+  - NotTarget
+  - Target
+  - foots
+  - Target2
+  - DestroyCube2
+  - LocalPlayerCollision
+  - LocalRig
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grabbable
+  - Body
+  - Ground
+  - LocalPlayer
+  - b
+  - r
+  - avatar
+  - wall
+  - customized_workout_avatar
+  - Camera
+  - Bonus
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

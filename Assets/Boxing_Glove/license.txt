@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boxing Glove
+* source:	https://sketchfab.com/3d-models/boxing-glove-978bdcc429f840a6a7ee94a44217556e
+* author:	Santa Cruz Museum of Art and History (https://sketchfab.com/santacruzmah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boxing Glove" (https://sketchfab.com/3d-models/boxing-glove-978bdcc429f840a6a7ee94a44217556e) by Santa Cruz Museum of Art and History (https://sketchfab.com/santacruzmah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
